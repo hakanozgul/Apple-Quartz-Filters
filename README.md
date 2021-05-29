@@ -1,4 +1,4 @@
-A handful of quartz filters for saving PDFs.
+# Reducing PDF files via macos included tools:
 
 With all due respect to Jerome Colas:
 
@@ -48,4 +48,4 @@ In Lion, the `*.qfilter` files should be copied to the following location: `/Lib
 
 The filters will **not** show up in Preview if the files are copied to the user's folder `~/Library/Filters`
 
-Alternatively, in Mountain Lion, since there is no `/Library/Filters` folder by default, you can put them in `/Library/PDF Services`
+Alternatively, in Mountain Lion and up (Big Sur included), since there is no `/Library/Filters` folder by default, you can put them in `/Library/PDF Services`
